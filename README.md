@@ -8,13 +8,11 @@
 - ✅ Classic Tetris gameplay
 - 🎯 Ghost piece preview for precise drops
 - 💾 Score, level, and line tracking with Tetris-style scoring
-- 🎵 Background music + sound effects with volume control
 - 🕹️ Hold system for swapping blocks
-- 🖼️ Textured blue background and polished UI
+- 🖼️ Polished UI
 - 🔁 Smooth DAS/ARR input for continuous movement
 - 🧱 Wall kick system for tight rotation near walls
 - 🚫 Lock delay to prevent accidental piece placements
-- 💾 Game Over screen with high score saving
 
 ## 🛠️ Requirements
 
