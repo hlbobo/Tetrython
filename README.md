@@ -19,7 +19,6 @@
 ## 🛠️ Requirements
 
 - Python 3.9+
-- [`pygame`](https://pypi.org/project/pygame/)
 
 ### Install dependencies:
 
