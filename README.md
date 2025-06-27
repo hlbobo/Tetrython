@@ -79,9 +79,6 @@ Tetrython/
 * Level increases every 10 lines and speeds up gameplay.
 
 ## 🧑‍💻 Credits
-
-Developed with ❤️ using Python and pygame.
-
 Music by GregorQuendel: https://pixabay.com/music/lullabies-tetris-theme-korobeiniki-rearranged-arr-for-music-box-184978/
 
 ---
