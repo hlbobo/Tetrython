@@ -278,6 +278,7 @@ class MGame:
         self.next_block = self.get_random_block()
         self.score = 0
         self.level = 1
+	self.lines_cleared = 0
         self.block_held = None
         self.can_hold = True
 
