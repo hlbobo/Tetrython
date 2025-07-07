@@ -7,7 +7,7 @@
 
 - ✅ Classic Tetris gameplay
 - 🎯 Ghost piece preview for precise drops
-- 💾 Score, level, and line tracking with Tetris-style scoring
+- 💾 Score and level tracking with Tetris-style scoring
 - 🕹️ Hold system for swapping blocks
 - 🖼️ Polished UI
 - 🔁 Smooth DAS/ARR input for continuous movement
